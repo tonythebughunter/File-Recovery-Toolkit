@@ -15,6 +15,7 @@ Handles files based on known file signatures.
 
 ## Installation
 Prerequisites : Python 3.x (make sure it is installed on your system).
+
     git clone https://github.com/tonythebughunter/File-Recovery-Toolkit
 ## Navigate to the directory
     cd File-Recovery-Toolkit
