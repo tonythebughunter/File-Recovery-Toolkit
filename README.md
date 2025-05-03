@@ -16,10 +16,11 @@ Handles files based on known file signatures.
 ## Installation
 Prerequisites : Python 3.x (make sure it is installed on your system).
     git clone https://github.com/tonythebughunter/File-Recovery-Toolkit
-## Naviagte to the directory
+## Navigate to the directory
     cd File-Recovery-Toolkit
 ## Usage
 Once installed, the tool can be run directly from the command line (Linux, macOS, or Windows).
+    
     python recover_files.py <path_to_your_raw_disk_dump_file>
 ## Example Usage:
     python recover_files.py my_raw_binary_with_deleted_files.bin
